@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/web/paciente.jsp</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/tags/TagVariavel.java</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/web/WEB-INF/tlds/ifpetags.tld</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/classes/Paciente.java</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/src/java/controller/servlets/PacienteServlet.java</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/tags/CarregaGrupoTag.java</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/classes/Aplicacao.java</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/web/cadastropaciente.jsp</file>
+            <file>file:/C:/Users/Almeidas/Documents/NetBeansProjects/VacinacaoCovid/web/index.html</file>
+        </group>
+    </open-files>
+</project-private>
